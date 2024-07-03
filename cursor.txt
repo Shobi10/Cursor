@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<p>Move the cursor.</p>
+<div style = "cursor:alias">alias Values</div>
+<div style = "cursor:auto">auto Values</div>
+<div Style = ""cursor:w-ewsize">w-resize"
